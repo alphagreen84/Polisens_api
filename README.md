@@ -18,7 +18,7 @@ No need for a API key!
 
 ## **About the Project**
 Get all events from polisen.se 
-The last 500 events are available. Older can can be requested from poli
+The last 500 events are available. 
 
 Following endpoints are available:
 - Time of event 
