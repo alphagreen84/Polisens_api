@@ -57,8 +57,10 @@ pip install -r requirements.txt
 
 
 ## Usage
-See details in polisen_api.py
+Adjust endpoint details in the polisen_api.py depending on what data you want.
 
 To run:
-
 python polisen_api.py
+
+Result:
+Returns a list of events with key/values.
