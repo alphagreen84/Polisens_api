@@ -44,10 +44,10 @@ To set up the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/alphagreen84/AI_lunch_box_recommender_system.git
+git clone https://github.com/alphagreen84/Polisens_api.git
 
 # Navigate to the project directory
-cd AI_lunch_box_recommender_system
+cd Polisens_api-main
 
 # Install dependencies
 pip install -r requirements.txt
