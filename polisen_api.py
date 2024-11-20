@@ -1,6 +1,7 @@
 import requests
 
 
+
 ### API endpoints: 
 # Events https://polisen.se/api/events (Get all 500 events)
 
@@ -26,7 +27,4 @@ events = response.json()
 # Print nummber of events
 print(len(events))
 
-# Print the first event from the list
-print(events[0])
-
-    
+print(events[:5])
