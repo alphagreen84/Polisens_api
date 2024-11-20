@@ -52,7 +52,6 @@ cd Polisens_api-main
 # Install dependencies
 pip install -r requirements.txt
 
-### **Usage**
 ```
 
 
