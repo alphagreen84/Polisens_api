@@ -1,4 +1,4 @@
-# **Code to use polisen.se API**
+# **polisen.se API script**
 
 Get significant events (500 lastest) from polisen.se
 No need for a API key!
