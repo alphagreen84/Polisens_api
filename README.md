@@ -1,4 +1,4 @@
-# **Code to use polisen.se API**
+# **polisen.se API script**
 
 Get significant events (500 lastest) from polisen.se
 No need for a API key!
@@ -18,13 +18,13 @@ No need for a API key!
 
 ## **About the Project**
 Get all events from polisen.se 
-The last 500 events are available. Older can can be requested from poli
+The last 500 events are available. 
 
 Following endpoints are available:
 - Time of event 
 - Location of the event
 - Type of event
-Full API description available at: https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/
+- Full API description available at: https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/
 
 ---
 
@@ -57,8 +57,10 @@ pip install -r requirements.txt
 
 
 ## Usage
-See details in polisen_api.py
+Adjust endpoint details in the polisen_api.py depending on what data you want.
 
 To run:
-
 python polisen_api.py
+
+Result:
+Returns a list of events with key/values.
