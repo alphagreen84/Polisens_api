@@ -22,4 +22,5 @@ events = response.json()
 # Print nummber of events
 print(len(events))
 
-print(events[:5])
+# Print first event
+print(events[0]))
