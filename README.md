@@ -24,7 +24,7 @@ Following endpoints are available:
 - Time of event 
 - Location of the event
 - Type of event
-Full API description available at: https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/
+- Full API description available at: https://polisen.se/om-polisen/om-webbplatsen/oppna-data/api-over-polisens-handelser/
 
 ---
 
